@@ -1,6 +1,6 @@
 +++
 date = '2021-09-01T00:00:00-07:00'
-draft = true
+draft = false
 title = 'First quarter at UW'
 +++
 

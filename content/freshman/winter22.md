@@ -1,6 +1,6 @@
 +++
 date = '2022-01-19T04:02:38-07:00'
-draft = true
+draft = false
 title = 'focusing up'
 +++
 
