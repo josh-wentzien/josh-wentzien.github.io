@@ -1,0 +1,25 @@
+{{ define "main" }}
+  {{ .Content }}
+  <br />
+
+  <div class="posts-list">
+    {{ range sort .Data.Pages "Date" "asc" }}
+      {{ if not .Params.private }}
+        <div class="post">
+          <div class="date">
+            {{ $month := .Date.Month }}
+            {{ $year := .Date.Year }}
+            {{ $season := cond (in (slice 3 4 5) $month) "Spring" (cond (in (slice 6 7 8) $month) "Summer" (cond (in (slice 9 10 11) $month) "Autumn" "Winter")) }}
+            {{ printf "%s %d" $season $year }}
+          </div>
+          <h2>
+            <a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a>
+          </h2>
+          <p>
+            {{ .Summary }}{{ if .Truncated }}...<a href="{{ .Permalink }}">(read more)</a>{{ end }}
+          </p>
+        </div>
+      {{ end }}
+    {{ end }}
+  </div>
+{{ end }}

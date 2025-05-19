@@ -1,4 +1,29 @@
 baseURL = 'https://josh-wentzien.github.io/'
 languageCode = 'en-us'
-title = 'Josh Wentzien Portfolio'
-theme = 'ananke'
+title = 'josh-wentzien'
+theme = 'hugo-theme-console'
+
+[params]
+  # Cutting off the page title to two chars for mobile (console-demo -> co)
+  titleCutting = true
+
+  # Set the animation style -- https://animate.style/
+  # To disable animations, please remove or comment animationStyle parameter
+  animateStyle = "animated zoomIn fast" 
+
+  [[params.navlinks]]
+  name = "freshman/"
+  url = "freshman/"
+
+  [[params.navlinks]]
+  name = "sophomore/"
+  url = "sophomore/"
+
+  [[params.navlinks]]
+  name = "junior/"
+  url = "junior/"
+
+  [[params.navlinks]]
+  name = "senior/"
+  url = "senior/"
+
