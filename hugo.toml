@@ -1,0 +1,4 @@
+baseURL = 'https://josh-wentzien.github.io/'
+languageCode = 'en-us'
+title = 'Josh Wentzien Portfolio'
+theme = 'ananke'
