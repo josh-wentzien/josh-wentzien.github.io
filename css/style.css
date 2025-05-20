@@ -11,3 +11,46 @@
   animation: none !important;
   -webkit-animation: none !important;
 }
+
+
+.post-navigation {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 2rem;
+  flex-wrap: wrap; /* Optional: handles narrow screens better */
+}
+
+.post-navigation .btn {
+  padding: 0.5em 1em;
+  background-color: white;
+  color: #1a95e0;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: bold;
+}
+
+.post-navigation .btn:hover {
+  background-color: #1a95e0;
+  color: white;
+}
+
+.post-navigation .disabled {
+  background-color: #ccc;
+  color: #666;
+  pointer-events: none;
+}
+
+.btn {
+  padding: 0.5em 1em;
+  background-color: #white;
+  color: #1a95e0;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: bold;
+}
+
+.btn:hover {
+  background-color: #1a95e0;
+  color: white;
+}
