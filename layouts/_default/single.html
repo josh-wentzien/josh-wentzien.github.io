@@ -1,0 +1,27 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+
+<div class="post-navigation">
+  {{/* to previous quarter */}}
+  {{ with .Prev }}
+    <a href="{{ .Permalink }}" class="btn prev">← Previous: {{ .Title }}</a>
+  {{ else }}
+    <span class="btn prev disabled">← Previous</span>
+  {{ end }} 
+
+  {{/* back to year */}}
+  {{ $yearPage := .Site.GetPage (printf "/%s/" .Section) }}
+  {{ if $yearPage }}
+    <a href="{{ $yearPage.Permalink }}" class="btn back-to-year">↑ Return to {{ $yearPage.Title }}</a>
+  {{ end }}
+
+  {{/* to next quarter */}}
+  {{ with .Next }}
+    <a href="{{ .Permalink }}" class="btn next">Next: {{ .Title }} →</a>
+  {{ else }}
+    <span class="btn next disabled">Next →</span>
+  {{ end }}
+</div>
+
+{{ end }}

@@ -72,3 +72,7 @@ incredibly valuable information as I graduate and begin working. My experience
 studying abroad in Zürich was also formative: I made lifelong friends that are
 now spread across the globe, and my eyes are open to the world in a way that
 they were not before.
+
+<div style="text-align: center; margin-top: 2rem;">
+  <a href="/freshman/" class="btn">Go to Freshman Year →</a>
+</div>

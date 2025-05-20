@@ -31,3 +31,7 @@ theme = 'hugo-theme-console'
   name = "senior/"
   url = "senior/"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

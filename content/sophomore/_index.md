@@ -1,1 +1,3 @@
-# Sophomore Year
+---
+title: "Sophomore Year"
+---

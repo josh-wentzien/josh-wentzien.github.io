@@ -1,1 +1,3 @@
-# Senior Year
+---
+title: "Senior Year"
+---

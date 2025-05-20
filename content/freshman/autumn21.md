@@ -4,7 +4,7 @@ draft = false
 title = 'first quarter at uw'
 +++
 
-The going ons of autumn 2021. Learning calculus II, struggling with bridge,
+The goings-on of autumn 2021. Learning calculus II, struggling with bridge,
 listening to the symphony.
 
 <!--more-->

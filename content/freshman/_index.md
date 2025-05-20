@@ -1,1 +1,3 @@
-# Freshman Year
+---
+title: "Freshman Year"
+---

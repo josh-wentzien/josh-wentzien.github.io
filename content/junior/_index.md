@@ -1,1 +1,3 @@
-# Junior Year
+---
+title: "Junior Year"
+---

@@ -1,10 +1,10 @@
 +++
 date = '2023-09-01T00:00:00-07:00'
 draft = false
-title = 'glad to be not working'
+title = 'glad to be back'
 +++
 
-the going ons of autumn 2023.
+the goings-on of autumn 2023.
 
 <!--more-->
 
