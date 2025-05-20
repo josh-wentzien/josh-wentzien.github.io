@@ -4,13 +4,15 @@ draft = false
 title = 'Home page'
 +++
 
+<!-- markdownlint-disable MD026 -->
+
 ## Hi there!
 
 Welcome to the portfolio website of Josh Wentzien. I'm a fourth-year Computer
 Engineering major at the University of Washington graduating in Spring 2025.
 
 On this website, you will be able to see my learning journey at the university
-and how I have developed as a person. Below
+and how I have developed as a person.
 
 {{< figure src="/images/st-moritz.jpeg" title="St. Moritz, January 2025" class="small-image">}}
 

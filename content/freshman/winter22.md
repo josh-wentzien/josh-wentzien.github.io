@@ -4,4 +4,14 @@ draft = false
 title = 'focusing up'
 +++
 
-physiking
+physiking.
+
+<!--more-->
+
+## Classes
+
+- engl 282 (intermediate multimodal composition)
+- math 126 (calculus iii)
+- phys 142 (honors electromagnetism)
+
+## Artifacts

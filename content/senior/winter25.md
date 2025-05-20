@@ -5,3 +5,9 @@ title = 'oops, just studying'
 +++
 
 exams after winter break is the best. travelling isn't bad though
+
+<!--more-->
+
+## classes
+
+## artifacts

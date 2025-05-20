@@ -5,3 +5,15 @@ title = 'chilling (literally)'
 +++
 
 life is good
+
+<!--more-->
+
+## classes
+
+- cse 451 (introduction to operating systems)
+- cse 461 (introduction to computer-communication networks)
+- cse 484 (computer security)
+- cse 492 (career seminar)
+- math 318 (advanced linear algebra tools and applications)
+
+## artifacts

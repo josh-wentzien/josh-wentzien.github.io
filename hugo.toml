@@ -12,6 +12,10 @@ theme = 'hugo-theme-console'
   animateStyle = "animated zoomIn fast" 
 
   [[params.navlinks]]
+  name = "home/"
+  url = "/"
+
+  [[params.navlinks]]
   name = "freshman/"
   url = "freshman/"
 
