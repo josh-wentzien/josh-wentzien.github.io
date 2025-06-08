@@ -16,3 +16,9 @@ new adventures, same subject
 - German 1
 
 ## artifacts
+
+{{< figure src="/images/nach_zurich.jpeg"
+    title="A new sunrise on my flight from Seattle to Amsterdam." class="small-image">}}
+
+{{< figure src="/images/oeschinensee.jpeg"
+    title="Hiking the Oeschinensee with fellow exchange students." class="small-image">}}

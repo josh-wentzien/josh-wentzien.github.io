@@ -16,3 +16,6 @@ autumn 2022.
 - honors 210 (american sabor: latinos and latinas in u.s. popular music)
 
 ## artifacts
+
+{{< figure src="/images/letter-inventory.png"
+    title="\"LetterInventory\", The first program in the first CS class I ever took at UW." class="small-image">}}

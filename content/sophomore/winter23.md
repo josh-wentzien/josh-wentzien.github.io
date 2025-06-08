@@ -17,3 +17,11 @@ brr, locked in
 - ee 271 (digital circuits and systems)
 
 ## artifacts
+
+Screenshot of Winter 2023 time schedule: This was a quarter of decision-making
+for me. I was taking two CSE and two EE classes and would find out midway
+through the quarter whether I was accepted into the Allen School or not. I was
+ready to go either way, but it is certainly an inflection point.
+
+{{< figure src="/images/schedule-wi23.jpeg"
+    title="This was a pretty busy quarter academically." class="small-image">}}

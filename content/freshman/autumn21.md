@@ -18,7 +18,7 @@ listening to the symphony.
 
 ## artifacts
 
-{{< figure src="/images/2021/math125.png"
+{{< figure src="/images/math125.png"
     title="A humorous comment on a Math 125 midterm." class="small-image">}}
 
 These are the Gradescope annotations of problem 2.3 on the first midterm I took
@@ -30,7 +30,7 @@ to the humanity of the TAs (especially with the smiley face). It also reminded
 that although there may be more than one way to skin a cat, there are definitely
 better methods and worse methods.
 
-{{< figure src="/images/2021/scorecard.png"
+{{< figure src="/images/scorecard.png"
     title="Duplicate Bridge scorecard." class="small-image">}}
 
 This is the score card for the first duplicate bridge event that I attended,
@@ -41,7 +41,7 @@ develop my skills further in college. As such, I decided to go to a duplicate
 bridge club, which turned out to be a much more competitive setting, which is
 both stressful and invigorating.
 
-{{< figure src="/images/2021/dausgaard.jpeg"
+{{< figure src="/images/dausgaard.jpeg"
     title="A program from the Seattle Symphony." class="small-image">}}
 
 This is the program for the second time I went to Benaroya Hall this quarter,

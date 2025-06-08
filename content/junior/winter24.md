@@ -17,3 +17,9 @@ life is good
 - math 318 (advanced linear algebra tools and applications)
 
 ## artifacts
+
+Late night in CSE2: a quintessential photo of my time at UW, my friend and I
+happy after finishing a project at a late hour.
+
+{{< figure src="/images/debugging-451.jpeg"
+    title="A friend and I past midnight, after either a stunning victory or a crushing defeat." class="small-image">}}
