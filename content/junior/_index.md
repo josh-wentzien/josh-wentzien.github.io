@@ -8,14 +8,14 @@ weight: 3
 
 This diagram exemplifies the design process that I have adhered to since
 CSE 469. Before this class, most of the projects I had been assigned were of a
-small enough scope that I was able to rush right into them and design the
+small-enough scope that I was able to rush right into them and design the
 solution as I went along. Here, however, Professor Anderson stressed that it
 would be necessary to plan this all out in advance, or else the design would
-grow too complex and become undebuggable. I followed his advance, and had a few
-iterations of design before I arrived at this, which I was able to implement in
-SystemVerilog with a relatively minimal level of pain. As a result of this
-experience, I tend to be much more careful and thought-out when I am making
-larger projects.
+grow too complex and become undebuggable. I followed his advice, and had a few
+iterations of design before I arrived at the above diagram, which I was able to
+implement in SystemVerilog in order to have a fully-functioning five-stage CPU.
+As a result of this experience, I tend to be much more careful and thought-out
+when I am making larger projects.
 
 {{< figure src="/images/debugging-451.jpeg"
     title="A friend and I past midnight in CSE2." class="small-image">}}

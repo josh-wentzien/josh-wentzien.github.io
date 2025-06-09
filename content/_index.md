@@ -20,10 +20,10 @@ and how I have developed as a person.
 
 While I have been at the University of Washington, my style of learning has
 changed from that of reading from the textbook and focusing on getting every
-last specific correct, to a style where I tend to learn better via projects and
-by actually doing what I am learning about. This is partially illustrated via
-two classes, one of which I took during the first quarter of my time at UW, and
-one that I am taking right now, in my last quarter.
+last specific detail correct, to a style where I tend to learn better via
+projects and by actually doing what I am learning about. This is partially
+illustrated via two classes, one of which I took during the first quarter of my
+time at UW, and one that I am taking right now, in my last quarter.
 
 Back in the autumn of 2021, I was planning on majoring in Bioengineering, and so
 I was taking all of the different engineering prerequisites, including MATH 125

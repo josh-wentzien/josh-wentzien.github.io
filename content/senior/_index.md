@@ -68,9 +68,9 @@ experiences: hiking through the mountains, and taking difficult exams. They
 represent how, like with all things, it is necessary to strike a balance that
 leaves you moving forward with life and building your skills, while still
 remaining happy in the moment and appreciating where you are. Although I cannot
-say that ETH Zürich has a particularly healthy work/life especially compared to
-the rest of Europe, there is still definitely a culture of working to live
-rather than living to work.
+say that ETH Zürich has a particularly healthy work/life balance especially
+compared to the rest of Europe, there is still definitely a culture of working
+to live rather than living to work.
 
 {{< figure src="/images/school-of-athens.jpeg"
     title="\"Just another\" masterpiece at the Vatican."
@@ -81,8 +81,6 @@ through the Vatican Museums because at the end is the Sistine Chapel, which I
 figured that I really ought to see. To my surprise and delight, however, there
 are numerous masterpieces, one after another after another, and it took me five
 hours to get through the museum. Near the end was Raphael's “The School of
-Athens”, which I hadn’t realized was there.
-
-This artwork and how I came to find is a good symbol for my entire time in
-Europe: how much I learned through study and the frequent serendipity in
-myday-to-day life.
+Athens”, which I hadn’t realized was there. This artwork and how I came to find
+is a good symbol for my entire time in Europe: how much I learned through study
+and the frequent serendipity in my day-to-day life.
