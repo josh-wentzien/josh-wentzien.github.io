@@ -20,10 +20,10 @@ and how I have developed as a person.
 
 While I have been at the University of Washington, my style of learning has
 changed from that of reading from the textbook and focusing on getting every
-last specific correct, do a style where I tend to learn better via projects and
-by actually doing what I am learning about. This is illustrated via two classes,
-one of which I took during the first quarter of my time at UW, and one that I am
-taking right now, in my last quarter.
+last specific correct, to a style where I tend to learn better via projects and
+by actually doing what I am learning about. This is partially illustrated via
+two classes, one of which I took during the first quarter of my time at UW, and
+one that I am taking right now, in my last quarter.
 
 Back in the autumn of 2021, I was planning on majoring in Bioengineering, and so
 I was taking all of the different engineering prerequisites, including MATH 125
@@ -31,9 +31,9 @@ I was taking all of the different engineering prerequisites, including MATH 125
 class, and so I threw myself into studying with gusto, going over my notes from
 lectures as well as the textbook what felt like every single day. I did well in
 that class, but there’s only so long that one can maintain that manner of work;
-it grew tedious after the initial shine of college started to tarnish. I only
+it grew tedious after the initial shine of college began to tarnish. I only
 realized that I wanted to be a Computer Engineering major sometime in the spring
-quarter of my freshman year, after spending time in BIOEN 299, which was a
+quarter of my freshman year after spending time in BIOEN 299, which was a
 1-credit seminar class where lots of different PhD students and professors
 presented their latest work in bioengineering.
 
@@ -46,9 +46,9 @@ bioengineering that really appealed to me were the data analysis portions, where
 you use computers and programs and logic to make some sort of conclusion that it
 would be impossible for a human to make. And so, in that quarter I resolved that
 I would do my best to become a Computer Engineering major, and eventually I
-became one in the spring of my sophomore year (it took this long because I still
-had to take CSE 143 in order to apply, and then there are only certain times of
-the year in which you can apply to swap to this major).
+succeeded in that in the spring of my sophomore year (it took this long because
+I still had to take CSE 143 in order to apply, and then there are only certain
+times of the year in which you can apply to swap to this major).
 
 Fast forward to today, when I’m completing my capstone in computer security (CSE
 481S). There aren’t daily worksheets nor weekly assignments that are based on

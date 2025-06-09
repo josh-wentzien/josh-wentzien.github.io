@@ -18,7 +18,7 @@ belief that when you try new things and reach for the stars, it is good for you
 and things will typically work out well.
 
 {{< figure src="/images/eth-zurich.jpeg"
-    title="The primary building of ETH Zürich." class="small-image">}}
+    title="The central building of ETH Zürich." class="small-image">}}
 
 Studying at ETH Zürich has been an immensely valuable experience for me. For
 education, I learned not only the course material, which itself is valuable
@@ -84,5 +84,5 @@ hours to get through the museum. Near the end was Raphael's “The School of
 Athens”, which I hadn’t realized was there.
 
 This artwork and how I came to find is a good symbol for my entire time in
-Europe: how much I learned through study and the frequent serendipity in my
-day-to-day life.
+Europe: how much I learned through study and the frequent serendipity in
+myday-to-day life.
