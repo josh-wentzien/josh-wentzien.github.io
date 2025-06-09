@@ -1,0 +1,11 @@
+{{ $size := .Get "size" | default "medium" }}
+
+<div class="text-with-image">
+  <div class="text-content">
+    {{ .Inner | markdownify }}
+  </div>
+  <figure class="image-content size-{{ $size }}">
+    <img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}">
+    <figcaption>{{ .Get "title" }}</figcaption>
+  </figure>
+</div>

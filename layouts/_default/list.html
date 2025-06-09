@@ -1,26 +1,33 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
-  <br />
+<h1>{{ .Title }}</h1>
+{{ .Content }}
 
-  <div class="posts-list">
-    {{ range sort .Data.Pages "Date" "asc" }}
-      {{ if not .Params.private }}
-        <div class="post">
-          <div class="date">
-            {{ $month := .Date.Month }}
-            {{ $year := .Date.Year }}
-            {{ $season := cond (in (slice 3 4 5) $month) "Spring" (cond (in (slice 6 7 8) $month) "Summer" (cond (in (slice 9 10 11) $month) "Autumn" "Winter")) }}
-            {{ printf "%s %d" $season $year }}
-          </div>
-          <h2>
-            <a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a>
-          </h2>
-          <p>
-            {{ .Summary }}{{ if .Truncated }}...<a href="{{ .Permalink }}">(read more)</a>{{ end }}
-          </p>
-        </div>
-      {{ end }}
-    {{ end }}
-  </div>
+{{ $sections := .Site.Sections.ByWeight }}
+{{ $current := . }}
+{{ $index := -1 }}
+
+{{ range $i, $s := $sections }}
+  {{ if eq $s.File.Path $current.File.Path }}
+    {{ $index = $i }}
+  {{ end }}
+{{ end }}
+
+<div class="post-navigation">
+  {{/* Previous Year */}}
+  {{ with index $sections (sub $index 1) }}
+    <a href="{{ .Permalink }}" class="btn prev">← Previous: {{ .Title }}</a>
+  {{ else }}
+    <span class="btn prev disabled">← Previous</span>
+  {{ end }}
+
+  {{/* Return to Overview (adjust this link if needed) */}}
+  <a href="{{ site.BaseURL }}" class="btn back-to-overview">↑ Return to Overview</a>
+
+  {{/* Next Year */}}
+  {{ with index $sections (add $index 1) }}
+    <a href="{{ .Permalink }}" class="btn next">Next: {{ .Title }} →</a>
+  {{ else }}
+    <span class="btn next disabled">Next →</span>
+  {{ end }}
+</div>
 {{ end }}

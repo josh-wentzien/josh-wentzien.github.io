@@ -54,3 +54,41 @@
   background-color: #1a95e0;
   color: white;
 }
+
+
+.text-with-image {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 1.5rem;
+  margin: 2rem 0;
+  flex-wrap: wrap; /* Makes it responsive */
+}
+
+.text-with-image .text-content {
+  flex: 2;
+  min-width: 200px;
+}
+
+.text-with-image .image-content {
+  flex: 1;
+  text-align: center;
+}
+
+.text-with-image .image-content img {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+/* Size variants */
+.image-content.size-small img {
+  width: 200px;
+}
+.image-content.size-medium img {
+  width: 300px;
+}
+.image-content.size-large img {
+  width: 450px;
+}
