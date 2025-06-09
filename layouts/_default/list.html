@@ -6,9 +6,11 @@
 {{ $current := . }}
 {{ $index := -1 }}
 
-{{ range $i, $s := $sections }}
-  {{ if eq $s.File.Path $current.File.Path }}
-    {{ $index = $i }}
+{{ if and .File (eq .Kind "section") }}
+  {{ range $i, $s := $sections }}
+    {{ if eq $s.File.Path $current.File.Path }}
+      {{ $index = $i }}
+    {{ end }}
   {{ end }}
 {{ end }}
 
